@@ -1,0 +1,2 @@
+cls
+python Generate_Macaron_Colors.py
